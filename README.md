@@ -4,7 +4,7 @@
 
 ## About.
 
-Builds a docker image for Zookeeper.
+Builds a docker image for Zookeeper. Based on Alpine container.
 
 ## Version
 
