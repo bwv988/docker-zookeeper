@@ -12,4 +12,4 @@ function build_img() {
 }
 
 IMGPREFIX=bwv988
-build_img $IMGPREFIX zookeeper
+build_img $IMGPREFIX docker-zookeeper
