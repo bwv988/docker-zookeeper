@@ -8,4 +8,4 @@ Builds a docker image for Zookeeper. Based on Alpine container.
 
 ## Version
 
-Zookeeper 3.4.8
+Zookeeper 3.4.10

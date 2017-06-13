@@ -2,7 +2,7 @@ FROM java:openjdk-8-jre-alpine
 MAINTAINER Justin Plock <justin@plock.net>
 
 ARG MIRROR=http://apache.mirrors.pair.com
-ARG VERSION=3.4.8
+ARG VERSION=3.4.10
 
 LABEL name="zookeeper" version=$VERSION
 
